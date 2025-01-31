@@ -24,4 +24,6 @@ Database: MongoDB
 
 Authentication: JWT, OTP (via email or SMS)
 
+image or file without using Multer
+
 
